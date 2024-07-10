@@ -63,3 +63,8 @@ body {
 .login-button:hover {
     background-color: #0a84c1;
 }
+
+.login-button:disbaled {
+    background-color: #1da1f2;
+    cursor: not-allowed;
+}
